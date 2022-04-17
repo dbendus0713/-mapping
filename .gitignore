@@ -2,6 +2,23 @@
 # Created by https://www.toptal.com/developers/gitignore/api/intellij,eclipse,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij,eclipse,java
 
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
 ### Eclipse ###
 .metadata
 bin/
